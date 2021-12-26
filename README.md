@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IdanRossman
+- Thank you for visiting my page!
+- 🌱 I’m currently learning Python and hopefully going to extend my knowledge as i go
+- 📫 You can reach me via my email address @ IdanRossman@gmail.com
